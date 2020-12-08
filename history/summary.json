@@ -2,6 +2,7 @@
   {
     "name": "memoteki.net",
     "url": "https://memoteki.net",
+    "icon": "https://favicons.githubusercontent.com/memoteki.net",
     "slug": "memoteki-net",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 149,
-    "timeWeek": 167,
-    "timeMonth": 167,
-    "timeYear": 167
+    "time": 266,
+    "timeDay": 662,
+    "timeWeek": 266,
+    "timeMonth": 266,
+    "timeYear": 266,
+    "dailyMinutesDown": {}
   },
   {
     "name": "file.memoteki.net",
     "url": "https://file.memoteki.net",
+    "icon": "https://favicons.githubusercontent.com/file.memoteki.net",
     "slug": "file-memoteki-net",
     "status": "up",
     "uptime": "100.00%",
@@ -25,10 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 545,
-    "timeDay": 437,
-    "timeWeek": 545,
-    "timeMonth": 545,
-    "timeYear": 545
+    "time": 528,
+    "timeDay": 457,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
+    "dailyMinutesDown": {}
   }
 ]
