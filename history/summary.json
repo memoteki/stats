@@ -4,19 +4,19 @@
     "url": "https://memoteki.net",
     "icon": "https://favicons.githubusercontent.com/memoteki.net",
     "slug": "memoteki-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 73,
-    "timeWeek": 362,
-    "timeMonth": 479,
-    "timeYear": 480,
+    "time": 479,
+    "timeDay": 93,
+    "timeWeek": 331,
+    "timeMonth": 467,
+    "timeYear": 479,
     "dailyMinutesDown": {
-      "2021-07-28": 0
+      "2021-07-28": 8
     }
   },
   {
