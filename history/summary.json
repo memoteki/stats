@@ -4,9 +4,9 @@
     "url": "https://memoteki.net",
     "icon": "https://favicons.githubusercontent.com/memoteki.net",
     "slug": "memoteki-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 362,
     "timeMonth": 479,
     "timeYear": 480,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-28": 0
+    }
   },
   {
     "name": "file.memoteki.net",
