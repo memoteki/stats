@@ -27,7 +27,7 @@
     "url": "https://file.memoteki.net",
     "icon": "https://favicons.githubusercontent.com/file.memoteki.net",
     "slug": "file-memoteki-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +38,8 @@
     "timeWeek": 541,
     "timeMonth": 580,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-17": 0
+    }
   }
 ]
