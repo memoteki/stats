@@ -32,9 +32,9 @@
     "url": "https://file.memoteki.net",
     "icon": "https://icons.duckduckgo.com/ip3/file.memoteki.net.ico",
     "slug": "file-memoteki-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -44,6 +44,7 @@
     "timeMonth": 581,
     "timeYear": 598,
     "dailyMinutesDown": {
+      "2023-02-16": 0,
       "2022-08-19": 16
     }
   }
