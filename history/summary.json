@@ -24,7 +24,7 @@
     "url": "https://file.memoteki.net",
     "icon": "https://icons.duckduckgo.com/ip3/file.memoteki.net.ico",
     "slug": "file-memoteki-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 608,
     "timeMonth": 597,
     "timeYear": 599,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-07": 0
+    }
   }
 ]
