@@ -24,19 +24,19 @@
     "url": "https://file.memoteki.net",
     "icon": "https://icons.duckduckgo.com/ip3/file.memoteki.net.ico",
     "slug": "file-memoteki-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 592,
     "timeDay": 468,
-    "timeWeek": 608,
-    "timeMonth": 597,
+    "timeWeek": 590,
+    "timeMonth": 592,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2024-07-07": 0
+      "2024-07-07": 15
     }
   }
 ]
