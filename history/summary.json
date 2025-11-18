@@ -4,19 +4,19 @@
     "url": "https://memoteki.net",
     "icon": "https://icons.duckduckgo.com/ip3/memoteki.net.ico",
     "slug": "memoteki-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
-    "time": 608,
-    "timeDay": 202,
-    "timeWeek": 618,
-    "timeMonth": 533,
-    "timeYear": 503,
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 607,
+    "timeDay": 187,
+    "timeWeek": 573,
+    "timeMonth": 521,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-11-18": 13
+      "2025-11-18": 28
     }
   },
   {
