@@ -1,7 +1,7 @@
 url: https://memoteki.net
-status: up
-code: 200
-responseTime: 138
-lastUpdated: 2025-11-18T11:47:48.655Z
+status: down
+code: 500
+responseTime: 116
+lastUpdated: 2025-11-18T11:53:12.267Z
 startTime: 2020-12-05T16:01:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
