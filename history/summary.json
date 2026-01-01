@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 570,
-    "timeDay": 169,
-    "timeWeek": 274,
-    "timeMonth": 325,
-    "timeYear": 481,
+    "time": 572,
+    "timeDay": 1149,
+    "timeWeek": 415,
+    "timeMonth": 356,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2025-11-18": 126
     }
@@ -26,15 +26,15 @@
     "slug": "file-memoteki-net",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 633,
-    "timeDay": 711,
-    "timeWeek": 664,
-    "timeMonth": 644,
-    "timeYear": 636,
+    "timeDay": 690,
+    "timeWeek": 663,
+    "timeMonth": 647,
+    "timeYear": 637,
     "dailyMinutesDown": {
       "2025-12-30": 21,
       "2025-12-28": 12
